@@ -1,0 +1,278 @@
+{
+  "ACH_1ST_TOOL": {
+    "earned": true,
+    "earned_time": 1716356866
+  },
+  "ACH_ALL_CHALLENGES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ALL_FIRE_TOOLS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ALL_READABLE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ALL_SICKNESS": {
+    "earned": true,
+    "earned_time": 1716706595,
+    "max_progress": 12,
+    "progress": 6
+  },
+  "ACH_AYAHUASKA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BAD_ENDING": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BRING_9_KIDS_BACK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BURN_10_CORPSES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BURN_10_TRASHES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CANIBAL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CATCH_AT_ONCE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CIRCLE_OF_LIFE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COMPLETE_SOA3_STORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CURE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_EMOTIONAL_SUPPORT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ENDING_GREENHELL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FARMER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FIND_5_MAPS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FIND_STORYCAVE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FIREPLACE_GOING": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FISHING": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FREE_9_WOMEN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FULL_MAP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GAIN_REPUTATION_800_FISHING": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GAIN_REPUTATION_800_HUNTING": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GAIN_REPUTATION_800_PLANTING": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GOOD_ENDING": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GREEDY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_HEAL_10_TRIBES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_HELP_5_FISHERMEN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_HOME": {
+    "earned": true,
+    "earned_time": 1716357522
+  },
+  "ACH_INSOMIA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_IRONMAN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_JUST_DIE": {
+    "earned": true,
+    "earned_time": 1716358130
+  },
+  "ACH_KILL_TRIBE": {
+    "earned": true,
+    "earned_time": 1716444821
+  },
+  "ACH_KING_OF_THE_JUNGLE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_LEECHES": {
+    "earned": true,
+    "earned_time": 1716704189
+  },
+  "ACH_MAGGOT_WOUND": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MAX_SKILL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_NEW_FRIEND": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PACIFIST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_REBUILD_10_TOTEMS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SAFE_WATER": {
+    "earned": true,
+    "earned_time": 1716460878
+  },
+  "ACH_SANITY_TRIBE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SAVEGAME": {
+    "earned": true,
+    "earned_time": 1716357779
+  },
+  "ACH_SNOWMAN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_START_FIRE": {
+    "earned": true,
+    "earned_time": 1716445157
+  },
+  "ACH_SURVIVE_10": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TRAVEL": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 64,
+    "progress": 16
+  },
+  "ACH_TURTLE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TUTORIAL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_VEGAN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_WELCOME": {
+    "earned": true,
+    "earned_time": 1716445048
+  },
+  "ACH_WILLSON": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_ALL_HABBAKU_LEGENDS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_ALL_MUAGI_LEGENDS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_ALL_SOA_ACHIEVEMENTS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_ALL_UNGARACA_LEGENDS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_HABBAKU_TRIAL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_MUAGI_TRIAL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_UNGARACA_TRIAL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DISCOVER_VILLAGE_HABBAKU": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DISCOVER_VILLAGE_MUAGI": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DISCOVER_VILLAGE_UNGARACA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PASS_YABAHUACA_TRIAL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "RAPORT_BACK_TO_THE_BASE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "REACH_YABAHUACA_VILLAGE": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

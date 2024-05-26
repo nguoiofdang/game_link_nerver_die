@@ -1,0 +1,182 @@
+{
+  "ACH_5_STAR_HOTEL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BAD_FATHER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BE_EXTREMELY_NICE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BE_NICE": {
+    "earned": true,
+    "earned_time": 1716015518
+  },
+  "ACH_BOY_SCOOT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BUILD_GAZEBO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHOP_BODIES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHOP_TREES_100": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHOP_TREES_1000": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COLLECT_CASSETTES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COLLECT_ROBOT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CRAFTY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DAYS_SURVIVED_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DAYS_SURVIVED_5": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DAYS_WITHOUT_KILLS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DRINK_COFFEE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_EAT_ALL_MUSHROOMS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FIND_PASSENGERS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FIRST_RESPONDER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FISH_DYNAMITED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GARDENER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GROSS_DRINK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GROUP_SLEEP": {
+    "earned": true,
+    "earned_time": 1716014474
+  },
+  "ACH_KILL_BUNNY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_KILL_CANNIBALS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_KILL_DOWNED_ENEMY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_KILL_SHARK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_LONG_WALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MAJOR_CANNIBALISM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MARATHON_STEPS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MEDIC": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MINOR_CANNIBALISM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_NATUROPATH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_REPAIR_SHELTER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SHOOT_BIRDS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SPELUNKER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SPRINKLERS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_STEALTH_ARMOR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SURVIVE_THE_FOREST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TRAP_FISH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TREES_DYNAMITED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TROPHY_HUNTER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_USED_BOMBS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_VEGAN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_VENDING_MACHINES": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
