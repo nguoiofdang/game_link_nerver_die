@@ -201,7 +201,7 @@
     "earned": false,
     "earned_time": 0,
     "max_progress": 64,
-    "progress": 16
+    "progress": 32
   },
   "ACH_TURTLE": {
     "earned": false,
