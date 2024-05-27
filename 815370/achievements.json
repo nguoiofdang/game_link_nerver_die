@@ -87,7 +87,9 @@
   },
   "ACH_FISHING": {
     "earned": false,
-    "earned_time": 0
+    "earned_time": 0,
+    "max_progress": 9,
+    "progress": 5
   },
   "ACH_FREE_9_WOMEN": {
     "earned": false,
@@ -220,8 +222,8 @@
     "earned_time": 1716445048
   },
   "ACH_WILLSON": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1716823896
   },
   "COMPLETE_ALL_HABBAKU_LEGENDS": {
     "earned": false,
