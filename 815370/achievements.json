@@ -86,8 +86,8 @@
     "earned_time": 0
   },
   "ACH_FISHING": {
-    "earned": false,
-    "earned_time": 0,
+    "earned": true,
+    "earned_time": 1717173619,
     "max_progress": 9,
     "progress": 5
   },
@@ -149,7 +149,9 @@
   },
   "ACH_KING_OF_THE_JUNGLE": {
     "earned": false,
-    "earned_time": 0
+    "earned_time": 0,
+    "max_progress": 7,
+    "progress": 4
   },
   "ACH_LEECHES": {
     "earned": true,
