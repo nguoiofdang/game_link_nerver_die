@@ -202,10 +202,10 @@
     "earned_time": 0
   },
   "ACH_TRAVEL": {
-    "earned": false,
-    "earned_time": 0,
+    "earned": true,
+    "earned_time": 1717308006,
     "max_progress": 64,
-    "progress": 48
+    "progress": 64
   },
   "ACH_TURTLE": {
     "earned": false,
