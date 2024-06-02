@@ -8,8 +8,8 @@
     "earned_time": 0
   },
   "ACH_ALL_FIRE_TOOLS": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1717225390
   },
   "ACH_ALL_READABLE": {
     "earned": false,
